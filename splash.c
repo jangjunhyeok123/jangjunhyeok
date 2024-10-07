@@ -29,7 +29,6 @@ int main() {
     scanf_s("%s", date,sizeof(date));//키보드를 통해서 날짜를 입력합니다.
     printf("[당신의 이름을 입력하세요]: ");
     scanf_s("%s", name,sizeof(name));// 키보드를 통해 이름을 입력합니다.
-    }
 
     // 스플래시 문구 출력합니다
     print_stars(1);
